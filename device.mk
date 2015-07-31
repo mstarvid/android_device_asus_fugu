@@ -113,8 +113,8 @@ PRODUCT_PACKAGES += \
     tv_input.default
 
 # Include AppDrawer
-PRODUCT_PACKAGES += \
-    AppDrawer
+#PRODUCT_PACKAGES += \
+#    AppDrawer
 
 # Bluetooth
 PRODUCT_PACKAGES += \
